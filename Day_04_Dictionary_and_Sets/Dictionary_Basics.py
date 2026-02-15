@@ -25,4 +25,5 @@ student ={
 }
 
 print(student["subjects"]) #for accessing dictionary that is in dictionary
+
 print(student["subjects"]["phy"]) #for accessing only value in nested dictionary
