@@ -3,7 +3,7 @@
 # tab space= \t
 str="dev is a good boy"
 str1='feature hai ki nahi'
-str2='''Heloo baby.\nHow \tare you'''
+str2='''Heloo bro.\nHow \tare you'''
 print(str2)
 
 # concatenation= sum of two strings
@@ -21,3 +21,4 @@ print(str[4])
 print(str1[3:8])
 print(str[:8]) # str[0:8]
 print(str[3:]) # str[3:len(str)]
+
