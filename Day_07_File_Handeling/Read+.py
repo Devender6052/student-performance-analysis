@@ -1,5 +1,0 @@
-f=open("Day 7(File handeling)\demo.txt","r+")
-# f.write("Hello How are u")
-f.write("Hello bachho")
-print(f.read())
-f.close()
