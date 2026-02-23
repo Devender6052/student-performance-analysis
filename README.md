@@ -6,14 +6,25 @@ This repository documents my structured Python learning journey while building p
 
 ## ✅ Progress Log
 
-✔ Day 01 – Python Basics (Input / Variables / Logic Building)  
-✔ Day 02 – Conditionals & Strings  
-✔ Day 03 – Lists & Tuples  
-✔ Day 04 – Dictionary & Sets  
+### ✅ Python Fundamentals
+- Day 01 – Python Basics  
+- Day 02 – Conditionals & Strings  
+- Day 03 – Lists & Tuples  
+- Day 04 – Dictionaries & Sets  
+- Day 05 – Loops (For & While)  
+- Day 06 – Functions & Recursion  
+- Day 07 – File Handling  
+- Day 08 – OOP Concepts  
 
----
+### ✅ NumPy
+- Day 09 – NumPy Basics & Array Manipulation  
+- Day 10 – NumPy Practice with Datasets & Matrices  
 
-## ✅ Tools & Technologies
+### ✅ Pandas
+- Day 11 – Pandas Basics  
+- Day 12 – Advanced Pandas Concepts 
+
+## 🛠️ Technologies & Libraries Used
 
 - Python  
 - NumPy (Learning Phase)  
@@ -23,11 +34,11 @@ This repository documents my structured Python learning journey while building p
 
 ## ✅ Skills Being Developed
 
-- Python Programming  
-- Logical Thinking & Problem Solving  
-- Data Structures Fundamentals  
-- Clean Code Practices  
-- GitHub Workflow & Repository Structuring
+- Python  
+- NumPy  
+- Pandas  
+- (Upcoming) Matplotlib  
+- (Upcoming) Scikit-learn  
 
 ---
 
