@@ -27,18 +27,24 @@ This repository documents my structured Python learning journey while building p
 ## 🛠️ Technologies & Libraries Used
 
 - Python  
-- NumPy (Learning Phase)  
-- Pandas (Learning Phase)
+- NumPy  
+- Pandas  
+- (Upcoming) Matplotlib  
+- (Upcoming) Scikit-learn  
 
 ---
 
 ## ✅ Skills Being Developed
 
-- Python  
-- NumPy  
-- Pandas  
-- (Upcoming) Matplotlib  
-- (Upcoming) Scikit-learn  
+- Python Programming & Problem Solving  
+- Data Manipulation & Analysis (NumPy, Pandas)  
+- Working with Structured Datasets (CSV, Tables)  
+- Data Cleaning & Preprocessing  
+- Numerical Computing with Arrays  
+- Logical Thinking & Code Structuring  
+- Basic Object-Oriented Programming (OOP)  
+- Debugging & Error Handling  
+- GitHub Workflow & Version Control   
 
 ---
 
